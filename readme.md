@@ -16,3 +16,12 @@ Node.js 读取每个 HTML 转换为 Markdown 格式到指定目录
 2. 以 UTF-8 字符串方式读取每个文件
 3. Turndown.js 转换为 Markdown
 4. 写入指定本地文件夹
+
+## 使用
+
+1. `yarn install`
+2. `index.js:6` 填入 Evernote 导出的 html 文件夹
+3. `index.js:7` 填入输出文件夹（手动创建好的）
+4. `yarn dev`
+5. 终端查看进度
+
