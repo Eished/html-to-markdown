@@ -1,0 +1,14 @@
+{
+  "name": "html-to-markdown",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "author": "Eished",
+  "type": "module",
+  "scripts": {
+    "dev": "node index.js"
+  },
+  "dependencies": {
+    "turndown": "^7.1.1"
+  }
+}
